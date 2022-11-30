@@ -9,6 +9,7 @@ import java.sql.Statement;
 public class MyDemo 
 {
 
+// my first project
 	public static void main(String[] args) throws SQLException{
 		
 		Connection connect = null;
